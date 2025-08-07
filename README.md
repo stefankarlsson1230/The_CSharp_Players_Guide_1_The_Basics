@@ -1,11 +1,16 @@
 # The C# Player's Guide - Part 1: The Basics
 
-Chapter 1: The C# Programming Language
-    1. What is C#? – Print a one-line description.
-    2. Why Learn to Code? – Print your personal motivation.
-    3. Hello Programmer – Print “I’m learning C#!”
-    4. Real-World Uses – Print 3 things C# can build.
-    5. Describe a Program – Write a comment that explains what a program does.
+## Chapter 1: The C# Programming Language
+
+- [ ] Project 1
+  - What is C#? - Print a one-line description.
+  - Why Learn to Code? - Print your personal motivation.
+  - Hello Programmer - Print “I’m learning C#!”
+  - Real-World Uses - Print 3 things C# can build.
+  - Describe a Program - Write a comment that explains what a program does.
+- *Comments*
+  - *I merged these 5 small projects into one*
+
 
 Chapter 2: Getting an IDE
     1. Launch and Explore – Open your IDE and create a blank project.
