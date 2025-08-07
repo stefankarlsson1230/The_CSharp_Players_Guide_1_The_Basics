@@ -2,7 +2,7 @@
 
 ## Chapter 1: The C# Programming Language
 
-- [ ] Project 1
+- [x] Project 1
   - What is C#? - Print a one-line description.
   - Why Learn to Code? - Print your personal motivation.
   - Hello Programmer - Print “I’m learning C#!”
