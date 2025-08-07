@@ -2,6 +2,7 @@
 
 ## Chapter 1: The C# Programming Language
 
+### From ChatGPT
 - [x] Project 1
   - What is C#? - Print a one-line description.
   - Why Learn to Code? - Print your personal motivation.
@@ -12,12 +13,18 @@
   - *I merged these 5 small projects into one*
 
 
-Chapter 2: Getting an IDE
-    1. Launch and Explore – Open your IDE and create a blank project.
-    2. Identify Components – Comment the auto-generated code.
-    3. Custom Message – Print “I’m coding in [Your IDE]!”
-    4. Run and Rerun – Make a small change and run again.
-    5. IDE Shortcuts – Use at least 2 shortcuts (e.g., run, format code).
+## Chapter 2: Getting an IDE
+
+### From the Book & ChatGPT
+- [x] Project 1
+  - Install Visual Studio 2022 Community edition (or another IDE) and get it ready to start programming.
+  - Launch and Explore – Open your IDE and create a blank project.
+  - Identify Components – Comment the auto-generated code.
+  - Custom Message – Print “I’m coding in [Your IDE]!”
+  - Run and Rerun – Make a small change and run again.
+  - IDE Shortcuts – Use at least 2 shortcuts (e.g., run, format code).
+ - *Comments*
+   - *I merged these small projects into one*
 
 Chapter 3: Hello World
     1. Print Hello – Print “Hello, World!”
