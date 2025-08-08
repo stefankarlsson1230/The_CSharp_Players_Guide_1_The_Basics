@@ -54,10 +54,11 @@
     - Make a program that runs as shown above, including taking a name from the user.
 
 ### From ChatGPT
-    2. Custom Greeting – Ask for user’s name and greet them.
-    3. Two-Line Output – Print your name and favorite color.
-    4. Hello in Multiple Cases – Output upper/lower/mixed case.
-    5. Input-Output – Read user name, then say “Nice to meet you, [name]!”
+- [x] Project 4 
+  - Custom Greeting – Ask for user’s name and greet them.
+  - Two-Line Output – Print your name and favorite color.
+  - Hello in Multiple Cases – Output upper/lower/mixed case.
+  - Input-Output – Read user name, then say “Nice to meet you, [name]!”
 
 Chapter 4: Comments
     1. Add Line Comments – Explain each line of a simple program.
