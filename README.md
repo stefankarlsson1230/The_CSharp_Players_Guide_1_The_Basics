@@ -15,7 +15,7 @@
 
 ## Chapter 2: Getting an IDE
 
-### From the Book & ChatGPT
+### From the book & ChatGPT
 - [x] Project 1
   - Install Visual Studio 2022 Community edition (or another IDE) and get it ready to start programming.
   - Launch and Explore – Open your IDE and create a blank project.
@@ -26,8 +26,17 @@
  - *Comments*
    - *I merged these small projects into one*
 
-Chapter 3: Hello World
-    1. Print Hello – Print “Hello, World!”
+
+## Chapter 3: Hello World
+
+### From the Book
+- [x] Project 1
+  - Create a new Hello World program from the C# Console Application template.
+  - Run your program using any of the three methods described above.
+
+
+
+### From ChatGPT
     2. Custom Greeting – Ask for user’s name and greet them.
     3. Two-Line Output – Print your name and favorite color.
     4. Hello in Multiple Cases – Output upper/lower/mixed case.
