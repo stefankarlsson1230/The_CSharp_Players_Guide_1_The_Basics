@@ -30,15 +30,18 @@
 ## Chapter 3: Hello World
 
 ### From the Book
-- [x] Project 1
+- [x] Project 1 - Hello, World!
   - Create a new Hello World program from the C# Console Application template.
   - Run your program using any of the three methods described above.
 
-- [x] Project 1B
+- [x] Project 1B - What Comes Next
   - Change your program to say something besides “Hello, World!”
   - *Comments*
-    - *I update project 1*    
+    - *I don't create a new project for this, I update project 1*    
 
+- [x] Project 2 - The Makings of a Programmer
+  - Make a program with 5 Console.WriteLine statements in it.
+  - Answer this question: How many statements do you think a program can contain?
 
 ### From ChatGPT
     2. Custom Greeting – Ask for user’s name and greet them.
