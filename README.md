@@ -43,6 +43,16 @@
   - Make a program with 5 Console.WriteLine statements in it.
   - Answer this question: How many statements do you think a program can contain?
 
+- [x] Project 3 - Consolas and Telim
+    - Telim will share his bread with the city if you can build a program that lets him enter the names of those receiving it. A sample run of this program looks like this:
+      ```
+      Bread is ready.
+      Who is the bread for?
+      RB
+      Noted: RB got bread.
+      ``` 
+    - Make a program that runs as shown above, including taking a name from the user.
+
 ### From ChatGPT
     2. Custom Greeting – Ask for user’s name and greet them.
     3. Two-Line Output – Print your name and favorite color.
