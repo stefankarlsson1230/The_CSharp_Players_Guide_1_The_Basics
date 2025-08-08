@@ -34,6 +34,10 @@
   - Create a new Hello World program from the C# Console Application template.
   - Run your program using any of the three methods described above.
 
+- [x] Project 1B
+  - Change your program to say something besides “Hello, World!”
+  - *Comments*
+    - *I update project 1*    
 
 
 ### From ChatGPT
