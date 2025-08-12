@@ -64,7 +64,7 @@
 ## Chapter 4: Comments
 
 ### From the book
-- [ ] Project 1 - The Thing Namer 3000
+- [x] Project 1 - The Thing Namer 3000
   - Rebuild the following program
     ```
     Console.WriteLine("What kind of thing are we talking about?");
@@ -83,7 +83,7 @@ understandable?
 
 
 ### From ChatGPT
-- [ ] Project 2
+- [x] Project 2
     - Add Line Comments – Explain each line of a simple program.
     - Block Comment – Wrap a paragraph in /* */.
     - Comment Joke – Write a short program that explains itself humorously.
