@@ -15,7 +15,7 @@
 
 ## Chapter 2: Getting an IDE
 
-### From the book & ChatGPT
+### From The book & ChatGPT
 - [x] Project 1
   - Install Visual Studio 2022 Community edition (or another IDE) and get it ready to start programming.
   - Launch and Explore – Open your IDE and create a blank project.
@@ -29,7 +29,7 @@
 
 ## Chapter 3: Hello World
 
-### From the Book
+### From The Book
 - [x] Project 1 - Hello, World!
   - Create a new Hello World program from the C# Console Application template.
   - Run your program using any of the three methods described above.
@@ -60,13 +60,37 @@
   - Hello in Multiple Cases – Output upper/lower/mixed case.
   - Input-Output – Read user name, then say “Nice to meet you, [name]!”
 
-Chapter 4: Comments
-    1. Add Line Comments – Explain each line of a simple program.
-    2. Block Comment – Wrap a paragraph in /* */.
-    3. Comment Joke – Write a short program that explains itself humorously.
-    4. Comment Plan – Write only comments to describe a future program.
-    5. Debug Notes – Comment areas to fix or improve.
 
+## Chapter 4: Comments
+
+### From the book
+- [ ] Project 1 - The Thing Namer 3000
+  - Rebuild the following program
+    ```
+    Console.WriteLine("What kind of thing are we talking about?");
+    string a = Console.ReadLine();
+    Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
+    string b = Console.ReadLine();
+    string c = "of Doom";
+    string d = "3000";
+    Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
+    ```
+  - Add comments near each of the four variables that describe what they store. You must use at least
+one of each comment type (// and /* */).
+  - Find the bug in the text displayed and fix it.
+  - Answer this question: Aside from comments, what else could you do to make this code more
+understandable?
+
+
+### From ChatGPT
+- [ ] Project 2
+    - Add Line Comments – Explain each line of a simple program.
+    - Block Comment – Wrap a paragraph in /* */.
+    - Comment Joke – Write a short program that explains itself humorously.
+    - Comment Plan – Write only comments to describe a future program.
+    - Debug Notes – Comment areas to fix or improve.
+
+    
 Chapter 5: Variables
     1. Store and Print – Store your age, name, and city in variables and print them.
     2. Swap Variables – Swap two variables and print the result.
