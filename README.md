@@ -91,12 +91,15 @@ understandable?
     - Debug Notes – Comment areas to fix or improve.
 
     
-Chapter 5: Variables
-    1. Store and Print – Store your age, name, and city in variables and print them.
-    2. Swap Variables – Swap two variables and print the result.
-    3. Travel Budget – Calculate total trip cost with basic math.
-    4. Hobby Info – Store details about a hobby and output them.
-    5. Temperature Converter – Convert Celsius to Fahrenheit.
+## Chapter 5: Variables
+
+### From ChatGPT
+- [ ] Project 1
+  - Store and Print – Store your age, name, and city in variables and print them.
+  - Swap Variables – Swap two variables and print the result.
+  - Travel Budget – Calculate total trip cost with basic math.
+  - Hobby Info – Store details about a hobby and output them.
+  - Temperature Converter – Convert Celsius to Fahrenheit.
 
 Chapter 6: The C# Type System
     1. Practice Types – Declare and print each basic type.
