@@ -102,8 +102,19 @@ understandable?
   - Temperature Converter – Convert Celsius to Fahrenheit.
 
   
-Chapter 6: The C# Type System
-    1. Practice Types – Declare and print each basic type.
+## Chapter 6: The C# Type System
+
+### From The Book
+- [x] Project 1 - The Variable Shop + The Variable Shop Returns
+  - Build a program with a variable of all fourteen types described in this level.
+  - Assign each of them a value using a literal of the correct type.
+  - Use Console.WriteLine to display the contents of each variable.
+  - Modify your Variable Shop program to assign a new, different literal value to 
+    each of the 14 original variables. Do not declare any additional variables.
+  - Use Console.WriteLine to display the updated contents of each variable. 
+
+
+### From chatGPT
     2. Type Conversion – Convert string to int and perform addition.
     3. Character Codes – Print a few char values and their Unicode codes.
     4. Type Summary – Print the size of each basic numeric type.
