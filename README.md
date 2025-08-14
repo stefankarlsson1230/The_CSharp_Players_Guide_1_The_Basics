@@ -112,13 +112,15 @@ understandable?
   - Modify your Variable Shop program to assign a new, different literal value to 
     each of the 14 original variables. Do not declare any additional variables.
   - Use Console.WriteLine to display the updated contents of each variable. 
-
-
+  
 ### From chatGPT
-    2. Type Conversion – Convert string to int and perform addition.
-    3. Character Codes – Print a few char values and their Unicode codes.
-    4. Type Summary – Print the size of each basic numeric type.
-    5. Type Check – Use GetType() to confirm data types.
+- [x] Project 2
+    - Type Conversion – Convert string to int and perform addition.
+    - Character Codes – Print a few char values and their Unicode codes.
+    - Type Summary – Print the size of each basic numeric type.
+    - Type Check – Use GetType() to confirm data types.
+
+
 
 Chapter 7: Math
     1. Age Calculator – Ask for birth year and compute current age.
