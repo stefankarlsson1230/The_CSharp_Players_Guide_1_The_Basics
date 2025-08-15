@@ -120,9 +120,17 @@ understandable?
     - Type Summary – Print the size of each basic numeric type.
     - Type Check – Use GetType() to confirm data types.
 
+    
+## Chapter 7: Math
 
+### From The Book
+- [x] Project 1 - The Triangle Farmer
+  - Write a program that lets you input the triangle’s base size and height.
+  - Compute the area of a triangle by turning the above equation into code.
+  - Write the result of the computation.
+  - Area = (base x height) / 2
 
-Chapter 7: Math
+### From ChatGPT
     1. Age Calculator – Ask for birth year and compute current age.
     2. Area of Circle – Prompt radius and compute area.
     3. Tip Calculator – Ask for bill and tip percentage.
