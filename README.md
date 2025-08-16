@@ -130,6 +130,14 @@ understandable?
   - Write the result of the computation.
   - Area = (base x height) / 2
 
+- [x] Project 2 - The Four Sisters and the Duckbear
+  - Create a program that lets the user enter the number of chocolate eggs gathered that day.
+  - Using / and %, compute how many eggs each sister should get and how many are left over for the
+duckbear.
+  - Answer this question: What are three total egg counts where the duckbear gets more than each
+sister does? You can use the program you created to help you find the answer.
+
+
 ### From ChatGPT
     1. Age Calculator – Ask for birth year and compute current age.
     2. Area of Circle – Prompt radius and compute area.
