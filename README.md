@@ -143,11 +143,21 @@ sister does? You can use the program you created to help you find the answer.
   - Display the point total to the user.
 
 ### From ChatGPT
-    1. Age Calculator – Ask for birth year and compute current age.
-    2. Area of Circle – Prompt radius and compute area.
-    3. Tip Calculator – Ask for bill and tip percentage.
-    4. Average Finder – Ask for 3 numbers, compute average.
-    5. BMI Calculator – Ask for height and weight, then compute BMI.
+- [ ] Project 4 - Age Calculator
+  - Ask for birth year and compute current age.
+    
+- [ ] Project 5 - Area of Circle 
+  - Prompt radius and compute area.
+ 
+- [ ] Project 6 - Tip Calculator 
+  - Ask for bill and tip percentage.
+
+- [ ] Project 7 - Average Finder
+  – Ask for 3 numbers, compute average. 
+
+- [ ] Project 8 - BMI Calculator
+  – Ask for height and weight, then compute BMI. 
+   
 
 Chapter 8: Console 2.0
     1. Text Aligner – Align three labels using spacing.
