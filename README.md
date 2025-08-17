@@ -204,7 +204,16 @@ target. Something like this:
 
 
 
-Chapter 9: Decision Making (if/else)
+## Chapter 9: Decision Making (if/else)
+
+### From The Book
+- [x] Project 1 - Repairing the Clocktower
+  - Take a number as input from the console.
+  - Display the word “Tick” if the number is even. Display the word “Tock” if the number is odd.
+  - Hint: Remember that you can use the remainder operator to determine if a number is even or odd.
+
+  
+### From ChatGPT
     1. Even or Odd – Check if number is even.
     2. Grade Checker – Return letter grade from score.
     3. Voting Eligibility – Ask age, confirm if allowed to vote.
