@@ -193,7 +193,7 @@ target. Something like this:
 - [x] Project 3 - Color Preview
   - Let user choose a foreground color.
 
-- [ ] Project 4 - Inventory Table
+- [x] Project 4 - Inventory Table
   - Display items and prices in a table.
 
 - [ ] Project 5 - Styled Greeting
