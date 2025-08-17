@@ -196,7 +196,7 @@ target. Something like this:
 - [x] Project 4 - Inventory Table
   - Display items and prices in a table.
 
-- [ ] Project 5 - Styled Greeting
+- [x] Project 5 - Styled Greeting
   - Print a centered greeting using padding.
     
 - [ ] Project 6 - Typewriter Effect
