@@ -212,9 +212,13 @@ target. Something like this:
   - Display the word “Tick” if the number is even. Display the word “Tock” if the number is odd.
   - Hint: Remember that you can use the remainder operator to determine if a number is even or odd.
 
-  
+- [ ] Project 2 - Watchtower
+- Ask the user for an x value and a y value. These are coordinates of the enemy relative to the watchtower’s location.
+- Using the image below, if statements, and relational operators, display a message about what direction the enemy is
+coming from. For example, “The enemy is to the northwest!” or “The enemy is here!”
+  - ![image for watchtower assignment](/images/watchtower.png)
+
 ### From ChatGPT
-    1. Even or Odd – Check if number is even.
     2. Grade Checker – Return letter grade from score.
     3. Voting Eligibility – Ask age, confirm if allowed to vote.
     4. Number Range – Check if number is in range 1–100.
