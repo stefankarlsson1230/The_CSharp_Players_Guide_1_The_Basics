@@ -162,7 +162,7 @@ sister does? You can use the program you created to help you find the answer.
 ## Chapter 8: Console 2.0
 
 ### The Book
-- [ ] Project 1 - The Defense of Consolas
+- [x] Project 1 - The Defense of Consolas
     - Story:
       - The city is arranged in blocks, numbered like a chessboard.
       - The city’s only defense is a movable magical barrier, operated by a squad of four that can protect a single city block by putting
