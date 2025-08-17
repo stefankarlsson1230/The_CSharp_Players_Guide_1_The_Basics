@@ -146,7 +146,7 @@ sister does? You can use the program you created to help you find the answer.
 - [x] Project 4 - Age Calculator
   - Ask for birth year and compute current age.
     
-- [ ] Project 5 - Area of Circle 
+- [x] Project 5 - Area of Circle 
     - Prompt radius for a circle and compute area.
  
 - [ ] Project 6 - Tip Calculator 
