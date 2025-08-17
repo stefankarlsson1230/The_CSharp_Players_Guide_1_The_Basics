@@ -199,7 +199,7 @@ target. Something like this:
 - [x] Project 5 - Styled Greeting
   - Print a centered greeting using padding.
     
-- [ ] Project 6 - Typewriter Effect
+- [x] Project 6 - Typewriter Effect
   - Display a sentence character-by-character.
 
 
