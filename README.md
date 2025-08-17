@@ -187,7 +187,7 @@ target. Something like this:
       - Play a sound with Console.Beep when the results have been computed and displayed.
 
 ### From ChatGPT
-- [ ] Project 2 - Text Aligner
+- [x] Project 2 - Text Aligner
   - Align three labels using spacing.
 
 - [ ] Project 3 - Color Preview
