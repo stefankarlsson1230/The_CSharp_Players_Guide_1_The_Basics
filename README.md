@@ -190,7 +190,7 @@ target. Something like this:
 - [x] Project 2 - Text Aligner
   - Align three labels using spacing.
 
-- [ ] Project 3 - Color Preview
+- [x] Project 3 - Color Preview
   - Let user choose a foreground color.
 
 - [ ] Project 4 - Inventory Table
