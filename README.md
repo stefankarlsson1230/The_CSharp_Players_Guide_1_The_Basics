@@ -152,7 +152,7 @@ sister does? You can use the program you created to help you find the answer.
 - [x] Project 6 - Tip Calculator 
     - Ask for bill and tip percentage.
 
-- [ ] Project 7 - Average Finder
+- [x] Project 7 - Average Finder
   - Ask for 3 numbers, compute average. 
 
 - [ ] Project 8 - BMI Calculator
