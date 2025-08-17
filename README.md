@@ -229,7 +229,7 @@ coming from. For example, “The enemy is to the northwest!” or “The enemy is here
 - [x] Project 5 - Number Range
   - Check if number is in range 1–100.
  
-- [ ] Project 6 - Password Gate
+- [x] Project 6 - Password Gate
   - Prompt and validate secret password.
 
 
