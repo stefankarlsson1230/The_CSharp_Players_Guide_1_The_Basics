@@ -223,7 +223,7 @@ coming from. For example, “The enemy is to the northwest!” or “The enemy is here
 - [x] Project 3 - Grade Checker
   - Return letter grade from score.
   
-- [ ] Project 4 - Voting Eligibility
+- [x] Project 4 - Voting Eligibility
   - Ask age, confirm if allowed to vote.
 
 - [ ] Project 5 - Number Range
