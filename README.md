@@ -159,12 +159,50 @@ sister does? You can use the program you created to help you find the answer.
   - Ask for height and weight, then compute BMI. 
   
 
-Chapter 8: Console 2.0
-    1. Text Aligner – Align three labels using spacing.
-    2. Color Preview – Let user choose a foreground color.
-    3. Inventory Table – Display items and prices in a table.
-    4. Styled Greeting – Print a centered greeting using padding.
-    5. Typewriter Effect – Display a sentence character-by-character.
+## Chapter 8: Console 2.0
+
+### The Book
+- [ ] Project 1 - The Defense of Consolas
+    - Story:
+      - The city is arranged in blocks, numbered like a chessboard.
+      - The city’s only defense is a movable magical barrier, operated by a squad of four that can protect a single city block by putting
+themselves in each of the target’s four adjacent blocks. For example, to protect the city block at (Row 6, Column 5), the
+crew deploys themselves to (Row 6, Column 4), (Row 5, Column 5), (Row 6, Column 6), and (Row7, Column 5).
+      - The City of Consolas needs a program to tell the squad where to deploy, given the anticipated
+target. Something like this:
+        ```
+        Target Row? 6
+        Target Column? 5
+        Deploy to:
+        (6, 4)
+        (5, 5)
+        (6, 6)
+        (7, 5)
+        ```
+    - Objectives:
+      - Ask the user for the target row and column.
+      - Compute the neighboring rows and columns of where to deploy the squad.
+      - Display the deployment instructions in a different color of your choosing.
+      - Change the window title to be “Defense of Consolas”.
+      - Play a sound with Console.Beep when the results have been computed and displayed.
+
+### From ChatGPT
+- [ ] Project 2 - Text Aligner
+  - Align three labels using spacing.
+
+- [ ] Project 3 - Color Preview
+  - Let user choose a foreground color.
+
+- [ ] Project 4 - Inventory Table
+  - Display items and prices in a table.
+
+- [ ] Project 5 - Styled Greeting
+  - Print a centered greeting using padding.
+    
+- [ ] Project 6 - Typewriter Effect
+  - Display a sentence character-by-character.
+
+
 
 Chapter 9: Decision Making (if/else)
     1. Even or Odd – Check if number is even.
