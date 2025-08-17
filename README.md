@@ -219,10 +219,20 @@ coming from. For example, “The enemy is to the northwest!” or “The enemy is here
   ![image for watchtower assignment](/images/watchtower.png)
 
 ### From ChatGPT
-    2. Grade Checker – Return letter grade from score.
-    3. Voting Eligibility – Ask age, confirm if allowed to vote.
-    4. Number Range – Check if number is in range 1–100.
-    5. Password Gate – Prompt and validate secret password.
+
+- [x] Project 3 - Grade Checker
+  - Return letter grade from score.
+  
+- [ ] Project 4 - Voting Eligibility
+  - Ask age, confirm if allowed to vote.
+
+- [ ] Project 5 - Number Range
+  - Check if number is in range 1–100.
+ 
+- [ ] Project 6 - Password Gate
+  - Prompt and validate secret password.
+
+
 
 Chapter 10: Switches
     1. Day of Week – Input day, return activity.
