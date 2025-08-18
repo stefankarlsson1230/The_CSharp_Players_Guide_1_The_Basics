@@ -323,7 +323,7 @@ Electric, and blue for Electric and Fire).
 - [x] Project 5 - Retry Login
   - Allow 3 attempts to enter password.
     
-- [ ] Project 6 - Multiplication Table
+- [x] Project 6 - Multiplication Table
   - Show a table 1–10.
 
 
