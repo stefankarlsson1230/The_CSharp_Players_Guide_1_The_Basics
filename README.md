@@ -263,12 +263,38 @@ Supplies: 2 gold.
   - If their name equals your name, divide the cost in half.
 
 
-Chapter 11: Looping
+## Chapter 11: Looping
+
+### From The Book
+- [ ] Project 1 - the Prototype
+  - Build a program that will allow a user to enter a number.
+  - If the number is above 100 or less than 0, keep asking.
+  - Clear the screen once the program has collected a good number.
+  - Ask a second user to guess numbers.
+  - Indicate whether the user guessed too high, too low, or guessed right.
+  - Loop until they get it right, then end the program.
+  - Sample Program:
+    ```
+        User 1, enter a number between 0 and 100: 27
+    ```
+     - After entering this number, the program should clear the screen and continue like this:
+    ```
+    User 2, guess the number.
+    What is your next guess? 50
+    50 is too high.
+    What is your next guess? 25
+    25 is too low.
+    What is your next guess? 27
+    You guessed the number!
+    ```
+
+
+### From ChatGPT
     1. Count Down – From 10 to 1.
     2. Sum Until Zero – Sum inputs until 0 is entered.
     3. Retry Login – Allow 3 attempts to enter password.
     4. Multiplication Table – Show a table 1–10.
-    5. Number Guess – Guess a random number with hints.
+
 
 Chapter 12: Arrays
     1. Store 5 Numbers – Save and print them.
