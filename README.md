@@ -317,7 +317,7 @@ Electric, and blue for Electric and Fire).
 - [x] Project 3 - Count Down
   - From 10 to 1.
 
-- [ ] Project 4 - Sum Until Zero
+- [x] Project 4 - Sum Until Zero
   - Sum inputs until 0 is entered.
     
 - [ ] Project 5 - Retry Login
