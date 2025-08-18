@@ -258,12 +258,14 @@ Supplies: 2 gold.
   - Ask the user to enter a number from the menu.
   - Using the information above, use a switch (either type) to show the item’s cost.
 
+- [x] Project 2 - Discounted Inventory
+  - Modify your program from before to also ask the user for their name.
+  - If their name equals your name, divide the cost in half.
 
 
 ### From ChatGPT
     1. Day of Week – Input day, return activity.
     2. Mood Responder – Choose a mood and respond.
-    3. Vending Machine – Select item from menu and show cost.
     4. Grade Feedback – Use switch to give grade feedback.
     5. Command Handler – Accept command strings and switch on them.
 
