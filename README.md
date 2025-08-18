@@ -320,7 +320,7 @@ Electric, and blue for Electric and Fire).
 - [x] Project 4 - Sum Until Zero
   - Sum inputs until 0 is entered.
     
-- [ ] Project 5 - Retry Login
+- [x] Project 5 - Retry Login
   - Allow 3 attempts to enter password.
     
 - [ ] Project 6 - Multiplication Table
