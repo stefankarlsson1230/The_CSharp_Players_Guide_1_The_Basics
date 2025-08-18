@@ -339,11 +339,14 @@ Electric, and blue for Electric and Fire).
   - Display the contents of both arrays one at a time to illustrate that the Replicator of D’To works
 again.
 
+- [x] Project 2 - The Laws of Freach
+  - Start with the code for computing an array’s minimum and average values in the section Some
+Examples with Arrays, starting on page 94.
+  - Modify the code to use foreach loops instead of for loops.
 
-
+ 
 ### From ChatGPT
 
-    1. Store 5 Numbers – Save and print them.
     2. Reverse Array – Print an array backwards.
     3. Find Maximum – Show largest number.
     4. Search Array – Find if a value exists.
