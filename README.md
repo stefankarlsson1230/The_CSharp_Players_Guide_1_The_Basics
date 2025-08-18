@@ -352,7 +352,7 @@ Examples with Arrays, starting on page 94.
 - [x] Project 4 - Find Maximum
   - Show largest number.
     
-- [ ] Project 5 - Search Array
+- [x] Project 5 - Search Array
   - Find if a value exists.
     
 - [ ] Project 6 - Grades Average
