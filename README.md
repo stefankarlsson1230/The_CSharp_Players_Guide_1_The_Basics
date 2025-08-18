@@ -263,12 +263,6 @@ Supplies: 2 gold.
   - If their name equals your name, divide the cost in half.
 
 
-### From ChatGPT
-    1. Day of Week – Input day, return activity.
-    2. Mood Responder – Choose a mood and respond.
-    4. Grade Feedback – Use switch to give grade feedback.
-    5. Command Handler – Accept command strings and switch on them.
-
 Chapter 11: Looping
     1. Count Down – From 10 to 1.
     2. Sum Until Zero – Sum inputs until 0 is entered.
