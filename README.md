@@ -313,10 +313,18 @@ the crew should expect. (The % operator may be of use.)
 Electric, and blue for Electric and Fire).
 
 ### From ChatGPT
-    1. Count Down – From 10 to 1.
-    2. Sum Until Zero – Sum inputs until 0 is entered.
-    3. Retry Login – Allow 3 attempts to enter password.
-    4. Multiplication Table – Show a table 1–10.
+
+- [x] Project 3 - Count Down
+  - From 10 to 1.
+
+- [ ] Project 4 - Sum Until Zero
+  - Sum inputs until 0 is entered.
+    
+- [ ] Project 5 - Retry Login
+  - Allow 3 attempts to enter password.
+    
+- [ ] Project 6 - Multiplication Table
+  - Show a table 1–10.
 
 
 Chapter 12: Arrays
