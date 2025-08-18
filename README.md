@@ -233,8 +233,34 @@ coming from. For example, “The enemy is to the northwest!” or “The enemy is here
   - Prompt and validate secret password.
 
 
+## Chapter 10: Switches
 
-Chapter 10: Switches
+### From The Book
+
+- [x] Project 1 - Buying Inventory
+  - Build something to report the prices of various pieces of equipment based on the user’s selection:
+The following items are available:
+    ```
+    1 – Rope
+    2 – Torches
+    3 – Climbing Equipment
+    4 – Clean Water
+    5 – Machete
+    6 – Canoe
+    7 – Food Supplies
+    What number do you want to see the price of? 2
+    Torches cost 15 gold.
+    ```
+  - Prices: Rope: 10 gold, Torches:
+16 gold, Climbing Equipment: 24 gold, Clean Water: 2 gold, Machete: 20 gold, Canoe: 200 gold, Food
+Supplies: 2 gold.
+  - Build a program that will show the menu illustrated above.
+  - Ask the user to enter a number from the menu.
+  - Using the information above, use a switch (either type) to show the item’s cost.
+
+
+
+### From ChatGPT
     1. Day of Week – Input day, return activity.
     2. Mood Responder – Choose a mood and respond.
     3. Vending Machine – Select item from menu and show cost.
