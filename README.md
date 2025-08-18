@@ -355,7 +355,7 @@ Examples with Arrays, starting on page 94.
 - [x] Project 5 - Search Array
   - Find if a value exists.
     
-- [ ] Project 6 - Grades Average
+- [x] Project 6 - Grades Average
   - Store grades, compute average and pass/fail.
 
 
