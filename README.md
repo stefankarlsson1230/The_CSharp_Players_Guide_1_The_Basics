@@ -344,13 +344,20 @@ again.
 Examples with Arrays, starting on page 94.
   - Modify the code to use foreach loops instead of for loops.
 
- 
 ### From ChatGPT
 
-    2. Reverse Array – Print an array backwards.
-    3. Find Maximum – Show largest number.
-    4. Search Array – Find if a value exists.
-    5. Grades Average – Store grades, compute average and pass/fail.
+- [x] Project 3 - Reverse Array
+  - Print an array backwards.
+    
+- [ ] Project 4 - Find Maximum
+  - Show largest number.
+    
+- [ ] Project 5 - Search Array
+  - Find if a value exists.
+    
+- [ ] Project 6 - Grades Average
+  - Store grades, compute average and pass/fail.
+
 
 Chapter 13: Methods
     1. Simple Adder – Create and call an Add() method.
