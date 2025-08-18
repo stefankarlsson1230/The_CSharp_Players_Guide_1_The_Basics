@@ -327,7 +327,22 @@ Electric, and blue for Electric and Fire).
   - Show a table 1–10.
 
 
-Chapter 12: Arrays
+## Chapter 12: Arrays
+
+### From The Book
+
+- [x] Project 1 - The Replicator of D’To
+  - Make a program that creates an array of length 5.
+  - Ask the user for five numbers and put them in the array.
+  - Make a second array of length 5.
+  - Use a loop to copy the values out of the original array and into the new one.
+  - Display the contents of both arrays one at a time to illustrate that the Replicator of D’To works
+again.
+
+
+
+### From ChatGPT
+
     1. Store 5 Numbers – Save and print them.
     2. Reverse Array – Print an array backwards.
     3. Find Maximum – Show largest number.
