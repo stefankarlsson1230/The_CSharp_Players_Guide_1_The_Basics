@@ -349,7 +349,7 @@ Examples with Arrays, starting on page 94.
 - [x] Project 3 - Reverse Array
   - Print an array backwards.
     
-- [ ] Project 4 - Find Maximum
+- [x] Project 4 - Find Maximum
   - Show largest number.
     
 - [ ] Project 5 - Search Array
