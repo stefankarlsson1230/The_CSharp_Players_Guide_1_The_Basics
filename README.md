@@ -362,13 +362,18 @@ Examples with Arrays, starting on page 94.
 ## Chapter 13: Methods
 
 ### From The Book
-- [ ] Project 1 - Taking a Number
+- [x] Project 1 - Taking a Number
   - Make a method with the signature int AskForNumber(string text). Display the text
 parameter in the console window, get a response from the user, convert it to an int, and return it.
 This might look like this: int result = AskForNumber("What is the airspeed velocity
 of an unladen swallow?");.
   - Make a method with the signature int AskForNumberInRange(string text, int min, int
 max). Only return if the entered number is between the min and max values. Otherwise, ask again.
+
+- [x] Project 2 - Countdown
+  - Write code that counts down from 10 to 1 using a recursive method.
+  - Hint: Remember that you must have a base case that ends the recursion and that every time you
+call the method recursively, you must be getting closer and closer to that base case.
 
 ### From ChatGPT
 
