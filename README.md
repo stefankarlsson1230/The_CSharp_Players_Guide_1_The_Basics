@@ -359,7 +359,19 @@ Examples with Arrays, starting on page 94.
   - Store grades, compute average and pass/fail.
 
 
-Chapter 13: Methods
+## Chapter 13: Methods
+
+### From The Book
+- [ ] Project 1 - Taking a Number
+  - Make a method with the signature int AskForNumber(string text). Display the text
+parameter in the console window, get a response from the user, convert it to an int, and return it.
+This might look like this: int result = AskForNumber("What is the airspeed velocity
+of an unladen swallow?");.
+  - Make a method with the signature int AskForNumberInRange(string text, int min, int
+max). Only return if the entered number is between the min and max values. Otherwise, ask again.
+
+### From ChatGPT
+
     1. Simple Adder – Create and call an Add() method.
     2. Greeting Method – Pass a name and return a greeting.
     3. Temperature Converter – Create method to convert Fahrenheit to Celsius.
