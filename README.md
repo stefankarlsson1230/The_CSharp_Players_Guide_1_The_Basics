@@ -384,24 +384,8 @@ call the method recursively, you must be getting closer and closer to that base 
   - Factorial – Compute using recursion.
 
 
-    Project 1: Character Sheet Builder
-Topics Covered: Variables, Types, Console I/O, Methods, Conditionals, Properties
-Overview:
-Create a program that asks the user for character details (name, age, class, stats), calculates derived values (e.g., attack power), and prints a formatted character sheet.
-Core Features:
-    • Input: string, int, double
-    • Method for computing AttackRating()
-    • Validation (e.g., stat total must not exceed 100)
-    • Use of properties with validation
-    • Enum for class types (Warrior, Mage, Rogue)
-Start After:
-    • Chapter 6 (Type System)
-    • Chapter 7 (Math)
-    • Chapter 13 (Methods)
- You’ll need:
-    • Basic input/output
-    • Variables and types
-    • Simple calculations and encapsulation
+## [Extra Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
+
 
 
 Chapter 14: Memory Management
