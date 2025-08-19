@@ -376,12 +376,12 @@ max). Only return if the entered number is between the min and max values. Other
 call the method recursively, you must be getting closer and closer to that base case.
 
 ### From ChatGPT
-
-    1. Simple Adder – Create and call an Add() method.
-    2. Greeting Method – Pass a name and return a greeting.
-    3. Temperature Converter – Create method to convert Fahrenheit to Celsius.
-    4. Max Method – Return the greater of two numbers.
-    5. Factorial – Compute using recursion.
+- [x] Project 3
+  - Simple Adder – Create and call an Add() method.
+  - Greeting Method – Pass a name and return a greeting.
+  - Temperature Converter – Create method to convert Fahrenheit to Celsius.
+  - Max Method – Return the greater of two numbers.
+  - Factorial – Compute using recursion.
 
 
     Project 1: Character Sheet Builder
