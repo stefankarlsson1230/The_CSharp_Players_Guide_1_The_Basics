@@ -391,8 +391,8 @@ call the method recursively, you must be getting closer and closer to that base 
 
 ### From The Book
 
-- [ ] Project 1 - Hunting the Manticore
-  - The Manticore is a airship that tries to destroy the city.
+- [x] Project 1 - Hunting the Manticore
+  - The Manticore is an airship trying to destroy the city.
   - Establish the game’s starting state: the Manticore begins with 10 health points and the city with 15.
 The game starts at round 1.
   - Ask the first player to choose the Manticore’s distance from the city (0 to 100). Clear the screen
