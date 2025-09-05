@@ -384,9 +384,6 @@ call the method recursively, you must be getting closer and closer to that base 
   - Factorial – Compute using recursion.
 
 
-## [Extra Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
-
-
 ## Chapter 14: Memory Management
 
 ### From The Book
