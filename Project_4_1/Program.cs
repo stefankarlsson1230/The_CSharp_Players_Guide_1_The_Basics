@@ -6,6 +6,8 @@ string c = "Doom";   /*  c stores the string "of Doom". I also removed an unnecc
 string d = "3000";      /*  d stores the string "3000" */
 Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
 
+Console.ReadKey();
 
 // Answer this question: Aside from comments, what else could you do to make this code more understandable?
 // More descriptive variable names
+
