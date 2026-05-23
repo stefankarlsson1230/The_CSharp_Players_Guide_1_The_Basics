@@ -97,3 +97,4 @@ Console.WriteLine("A Decimal: " + aDecimal);
 Console.WriteLine("A String: " + aString);
 Console.WriteLine("A Boolean: " + aBoolean);
 
+Console.ReadKey();

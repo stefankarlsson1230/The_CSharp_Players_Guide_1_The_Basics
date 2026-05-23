@@ -42,3 +42,5 @@ if(value.GetType() == typeof(int))
     WriteLine("It's an int!");
 }
 
+
+ReadKey();
