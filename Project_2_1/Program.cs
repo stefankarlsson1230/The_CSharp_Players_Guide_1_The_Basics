@@ -3,3 +3,5 @@
 
 Console.WriteLine("I'm coding in Visual Studio!");
 Console.WriteLine("Another small message!");
+
+Console.ReadKey();
