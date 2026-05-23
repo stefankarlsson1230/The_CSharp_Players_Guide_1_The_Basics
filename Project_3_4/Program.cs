@@ -16,3 +16,4 @@ Write("What was your name again? ");
 name = ReadLine();
 WriteLine("Nice to meet you, " + name);
 
+ReadKey();
