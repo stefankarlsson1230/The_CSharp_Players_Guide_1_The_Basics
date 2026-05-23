@@ -1,5 +1,4 @@
 ﻿// Store and Print – Store your age, name, and city in variables and print them.
-using System.Security.Cryptography.X509Certificates;
 
 int age = 50;
 string name = "Stefan";
@@ -38,3 +37,5 @@ WriteLine("\n");
 // F = C * 1.8 + 32
 int celsius = 30;
 WriteLine(celsius + "C = " + (celsius * 1.8 + 32) + "F");
+
+ReadKey();
